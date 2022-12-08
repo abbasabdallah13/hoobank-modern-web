@@ -167,9 +167,9 @@ html {
 
 .stores-btn {
   display: grid;
-  grid-template-areas: "
-  storeicon getIt
-   storeicon title";
+  grid-template-areas:
+   "storeicon getIt"
+   "storeicon title";
 }
 
 .store-logo {
